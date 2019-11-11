@@ -8,7 +8,6 @@
 <h1>Variant 7</h1>
 <h1>Zadacha 1</h1>
     <?php
-
 echo "<table border=1>";
 For($w=1;$w<101;$w++)
 {
